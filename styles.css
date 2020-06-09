@@ -1,0 +1,52 @@
+body{
+  background-color: #2f3640;
+}
+h1{
+  color: #f1f1f1;
+  font-size: 6rem;
+   }
+   .main{
+  text-align: center;
+}
+.dice-img{
+  height: 150px;
+  width: 200px;
+}
+.header{
+  display: inline-block;
+}
+.medium{
+  display: inline-block;
+}
+.headingtwo{
+  font-family: 'Ubuntu', sans-serif;
+  color: #f1f1f1;
+  font-size: 3rem;
+  margin: 0 20px;
+}
+.btn{
+  font-family: 'Ubuntu', sans-serif;
+  color: #2f3640;
+  font-size: 3rem;
+}
+.btn:hover{
+  color: grey;
+}
+p{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  color: #f1f1f1;
+}
+.foot{
+  /* text-align: center; */
+  margin-left: 700px;
+}
+.image{
+  display: inline-block;
+  margin-left: 30px;
+}
+h3{
+  color: #f1f1f1;
+  font-size: 60px;
+  text-align: center;
+}
